@@ -1,5 +1,5 @@
 {
-    //"prettier.requireConfig": true,
+    "prettier.requireConfig": true,
     "coc.preferences.formatOnSaveFiletypes": [
         "python"
     ]
